@@ -1,0 +1,55 @@
+The game starts with a small introductory paragraph, the character is a 
+sword for hire/detective. Hired by the king your initial quest is to destroy a 
+necromancer. Although, when you destroy the necromancer, all of the Creation and Res 
+magic it held in it's body is released in to the environment. personifying objects of minor 
+inconvenience and summon ancient creatures and gods.
+The King will ask you to slay <Certain enemies> on different floors and will meet you at a certain exit
+blocking progression to the next floor unless you have certain items he can turn in to a potion
+dropped by certain enemies on various floors.
+As you progress you will come across requests to kill a fire drake that are making residents
+flee the tower or they need the blood of a chaos angel to keep demons at bay.
+
+Legend:
+** = Actions
+"" = Speech
+Example Chat
+
+[
+*The King runs to the top of the tower.*
+
+King: 	"What happened?!"
+
+you: 	"..."
+
+King: 	"So you defeated the necromancer, but she cursed her mortal soul turning her in to a 
+	sacrifice using you as a catalyst to ressurect ancient creatures of formidable power 
+	and bringing to life the remnants of the tower."
+
+*You nod, grimacing in pain*
+
+King: 	"So my eyes weren't decieved, it seems this situation has took a turn for the worse, 
+	it happened in a flash, but , it couldn't have been anything else! Demon's seemingly 
+	out of nowhere took my son. Please get him back, and show those Demon's that my 
+	Son is not a trophy."
+
+	"To get him back we will need to make a potion to purify the burial ground can you gather
+	some Demon Essence from 1 Demon Spawn, Chaos Angels Blood (Demi Boss) and 
+	3 Skeleton bones for the potion"
+	Yes	No______ else(no) "please?"
+	|
+	|
+	|*Nod's*
+]
+Throughout the floors you encounter an array of enemies of increasing difficulties there is 
+35% chance of encounter from the first floor steadily creeping higher reaching 65% on MB1.
+
+The movement consists of a north, east, south and west navigation where the player will 
+move from room to room, encountering dead ends, each room will have an initial perception 
+checks but somethings might be more than they seem from first glance, giving you the 
+oppurtunity to have minor perception checks when you enter a new zone/room.
+
+There are 4 main bosses, 3 demi bosses and 1 event boss.
+
+Multiple choice questions - Revolved around an item on a different floor.
+The door to the next stage could be blocked by a character giving you directions to slay a demi boss 
+as he needs the item for one reason or another

@@ -1,0 +1,57 @@
+The current alpha version of the battle simulator includes a random encounter with
+set monsters. The monster encountered will have stats specific to that monster. Currently
+the only options are a basic attack, healing and running. All of these options have a 100%
+chance to succeed. There are death and victory prompts.
+
+	We decided not to use elements as it would be, too time consuming and overall
+Not worth the effort.
+We are going to incorporate a mana guage in to the battle system that will partially 
+recharge on a turn based system.
+
+A hit and miss ratio and a crit strike system that works on a D20 dice roll.
+
+We are going to look in to various methods of stating characters and mobs. 
+
+Spells to be incorporated currently are:
+Active -
+	<Earth Spell>
+Passive -
+	passive shield (when health drops below 50% you only take 75% physical 
+	damage attacks)
+attack 1: Stab
+Attack: Cleave
+We will create a second attack that relies on your first roll on a D20 against the enemies 
+Defence S
+tat; this is to determine whether your attack misses, hits with recoil damage, 
+hits normally or critical hits. The next roll is to determine it's power (eg Strength + Dice 
+Roll*3).
+
+The current base stats of the player used in battle are HP, Strength
+and Defence. If we incorporated level ups, we could introduce Stamina - STA (which 
+relates to HP and Defence), Strength - STR (which relates to HP and Strength) and
+Dexterity - DEX (which relates to accuracy and crit chance). These stats are likely to be
+much lower than the ones used in battle, but increasing them will boost your battle
+effectiveness. For example 1 STA point could increase your HP by 10 and your Defence
+by 4. Will Power (mana) is a special stat where you can hit milestones on top if it increasing your 
+mana when you hit certain stats in will you will unlock a new magic atk/def move.
+
+Using the items guide is a minor action: It will bring up a series of items in a different 
+type, these will probably be seperated as major and minor items for example 
+Major, attacking is a major action this is the conclusive part of your turn similarly 
+if you were to use a potion/mana potion this would be the conclusive part of your turn.
+A minor action would consist of using a consumable that does not end your turn for 
+example.
+
+The main reason for levelling up is to increase your stats mentioned above via stat points
+which are distributed upon level-up.
+Level ups will:
+1. Increase your battle stats by a set amount per level - HP, Battle Strength, Battle
+ Defence, Battle Willpower etc.
+2. Give you a certain amount of stat points to put towards your base stats - STR, STA, 
+DEX< WILL.
+Possibly allow you to equip higher quality armour which could be based on level, base
+stats or both.
+
+root stats that increase by level by x = level boost + attribute(s) = current stats
+
+battleHealth = baseSta x 30 + total Health gained by level

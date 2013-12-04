@@ -1,0 +1,11 @@
+Some items are going to have an exclusive variable under the name of minor action. 
+Minor Actions are going to be one time use per turn. this does not take up your main 
+attack phase within the battle, this gives you the opportunity to take advantage of 
+temporary stat increasing items without the drawback of losing the attack phase of 
+your turn whilst using the increased buff to take you further in to a battle.
+
+Attacking is an instant turn ender, any skills or spells that effect the opponent count
+as a major action.
+	 the only minor action that effects the enemy are stat debuff moves that can be 
+used once per turn (like any other minor action) before attacking said enemy.
+Status moves count as major acions (Ie: poison, stun, burn)

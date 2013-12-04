@@ -1,0 +1,20 @@
+We realised that our main mechanic in game was going to be the battle system, being in depth 
+with the sort of attacks you can use. There will be a command you can type in to get the merchant 
+up on demand with //Merchant in the terminal(Outide of battle). you can buy or sell the spoils 
+you get from battles or chests, these can increase all your chances of surviving, for instance
+if you want to play hardcore mode you can sell the check point amulets to the merchants for
+a boost in funds early on in the game although, this can be done 3 times you get 3 amulets each 
+increasing in value, because each amulet is increasingly harder to aquire than the last 
+and there is a higher possibility of death after each checkpoint as the encounter rate for random 
+battles increases and the creatures become stronger the further you progress.
+
+The Movement Mechanic is going to be a north, west, south and east room movement feature
+You will have an initial perception on top of the chance to have a greater perception, although
+greater perception is usually user for rooms that are greater sizes than the standard let's say
+this is the size of a standard room: 
+ _                          __                  ____
+[_] = Standard    [__] = double [____] = triple
+
+Let's imagine you enter the 1st part of a triple room, you can use greater perception to look at 
+the the next two parts ahead. Doing this could be the difference between preparing for a huge 
+battle, and dying mercilessly because of it.

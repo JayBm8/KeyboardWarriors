@@ -1,0 +1,68 @@
+The game is a type based fantasy rpg, following the story of a 
+character who battles his way through a castle from the high watch 
+tower of the seventh floor, to the basement exit. Over coming 
+obstacles, random encounter, Bosses navigating the labrinth that 
+are the floors. A lonely espionage where you will come across 
+almost no other NPC's in the game.
+
+________________________________________________________
+
+________________________________________________________
+
+Name Of Tower: 
+
+Level Cap: 20
+
+Name Of Bosses:
+1.	Necromancer
+2.	Dragon illusion
+3.  	Lion Demon
+4.	Prince
+4a. 	Hybrid Human {Suped up Prince} (stole the powers of Demons, Dragons and Angels)
+
+Common enemies: (F=Floor) (<> = Undecided enemy)
+
+
+F7:		Necromancer
+
+
+F5:		 
+Demon Spawn	
+Possessed Human
+Demon door Guard
+
+F6:
+Fire Drake <Demi boss>		
+Dragonborn
+greyling Dragon
+Gargoyles
+
+F4:				
+Human Guards
+Prisoners
+Conditioned Human Doormen (2)
+
+F3:
+Chaos Angel (Demi Boss) 
+Angel Warrior
+Conditioned Human doormen (2)
+
+F2:		Lion Demon
+Crystal Guardian [EVENT BATTLE]
+Demon Portal Guards (2)
+Hell's Archer
+Giant Skeleton
+		
+F1:	Dragon Illusion	
+Longwing Dragon (Acid venom)
+Skeleton
+
+(Magical) B1:
+Bloodline Angel
+Feral Angel
+Demon Gate Protector
+Demon Dragon Rider
+Mounted Hell's Archer (3)
+Demon of the light (Demi Boss)
+Prince's Guards
+
